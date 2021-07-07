@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rafaelbarretomg
-- 👀 I’m interested in learn to program
+- 👀 I’m interested in learn how to program
 - 🌱 I’m currently learning git, github, java, mysql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
