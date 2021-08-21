@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafaelbarretomg
-- 👀 I’m interested in learn how to program
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript.
+- 👀 I’m interested in learn everything
+- 🌱 I’m currently learning HTML5, CSS3, JavaScript and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
